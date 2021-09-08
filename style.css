@@ -1,0 +1,10 @@
+#content {
+    background-color: #ccc;
+    padding: 20px
+}
+
+.fact em {
+    color: red;
+    font-weight: bold;
+    margin: 35px;
+}
